@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Wyoming</title>
+    <link href="style.css" rel="stylesheet">
+</head>
+
+<body>
+    <img src="welcomeSign.png" id="icon">
+    <div class="content">
+
+        <header>
+            <h1 id="pageTitle">Welcome to Wyoming</h1>
+        </header>
+
+        <nav>
+            <ul>
+                <li><a href="cheyenne.html">Cheyenne</a></li>
+                <li><a href="casper.html">Casper</a></li>
+                <li><a href="laramie.html">Laramie</a></li>
+            </ul>
+        </nav>
+
+        <section>
+            <aside>
+                <img src="welcomeSign.png" alt="Wyoming State welcome sign.">
+                <p><em>The Wyoming State welcome sign.</em></p>
+            </aside>
+
+            <article>
+                <h1>The State of Wyoming</h1>
+
+                <p>Wyoming was the 44th state admitted to the Union on July 10th, 1890. The current population stands
+                    at 576,851 people according to the 2020 US census. Wyoming is located in the north western region of
+                    the United States. The median income in Wyoming is $62,268. <a
+                        href="https://en.wikipedia.org/wiki/Wyoming" target="_blank">[Source]</a></p>
+
+                <table>
+                    <caption>State/City Median Income Comparison</caption>
+                    <tr>
+                        <th></th>
+                        <th>City</th>
+                        <th>Median Income</th>
+                        <th>Percent of State Average</th>
+                    </tr>
+                    <tr>
+                        <th>Wyoming</th>
+                        <td></td>
+                        <td>$62,268</td>
+                        <td>100%</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>Cheyenne</td>
+                        <td>$64,598</td>
+                        <td>103%</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>Casper</td>
+                        <td>$36,576</td>
+                        <td>58.7%</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>Laramie</td>
+                        <td>$27,319</td>
+                        <td>43.9%</td>
+                    </tr>
+                </table>
+
+                <h2>State Racial Demographics</h2>
+                <ol>
+                    <li>92.7% White</li>
+                    <li>2.7% Indigenous Peoples</li>
+                    <li>1.6% African American</li>
+                    <li>1.0% Asian American</li>
+                </ol>
+                <a href="https://en.wikipedia.org/wiki/Wyoming#Population" target="_blank">[Source]</a>
+
+                <h2>Got any questions? Ask Us!</h2>
+
+                <form id="questionForm">
+                    <!-- Form with first name, last name, email address 2x, text box, placeholders for all fields -->
+                    <input type="text" name="first" placeholder="First Name">
+                    <input type="text" name="last" placeholder="Last Name">
+                    <br>
+                    <input type="text" name="email" id="email1" placeholder="Email Address">
+                    <input type="text" name="confirmEmail" id="email2" placeholder="Confirm Email Address">
+                    <br>
+                    <textarea name="question" rows="4" cols="60" placeholder="Ask us anything!"></textarea>
+                    <br>
+                    <input type="submit" value="Submit">
+                </form>
+
+                <script>
+                    let qForm = document.querySelector("#questionForm");
+                    let emailsMatch = false;
+                    let email1 = document.querySelector("#email1");
+                    let email2 = document.querySelector("#email2");
+                    email2.addEventListener("input", emailMatch);
+
+                    function emailMatch() {
+                        let e1 = email1.value;
+                        let e2 = email2.value
+                        emailsMatch = e1 === e2;
+                    }
+
+                    qForm.addEventListener("submit", checkForm);
+
+                    function checkForm(event) {
+                        if (!emailsMatch) {
+                            alert("Email confirmation field does not match email address.");
+                            event.preventDefault();
+                        }
+                    }
+                </script>
+            </article>
+        </section>
+
+
+
+        <footer>
+            <p>&copy; RealFakeOrgs 2023</p>
+        </footer>
+    </div>
+</body>
+
+</html>

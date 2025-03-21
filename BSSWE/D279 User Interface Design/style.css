@@ -1,0 +1,173 @@
+:root {
+    --primary1: #003B6D;
+    --primary2: #6699CC;
+    --secondary1: #676767;
+    --secondary2: #BDBDBD;
+}
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+}
+
+body {
+    width: 80%;
+    background-color: var(--primary2);
+    margin: auto;
+}
+
+header {
+    background-color: white;
+}
+
+header img {
+    max-width: 100%;
+    height: 128px;
+}
+
+nav {
+    overflow: hidden;
+    background-color: var(--primary1);
+    border-left: 6px solid var(--primary1);
+    border-right: 6px solid var(--primary1);
+    margin: 0px;
+    position: sticky;
+    top: 0px;
+}
+
+nav a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+nav a:hover {
+    background-color: var(--secondary2);
+    color: black;
+}
+
+nav a.active {
+    background-color: var(--primary2);
+    color: white;
+}
+
+nav input[type=text] {
+    padding: 6px;
+    margin-top: 8px;
+    margin-right: 16px;
+    font-size: 17px;
+    border: none;
+    float: right;
+}
+
+nav button[type=submit] {
+    float: right;
+    padding: 6px;
+    margin-top: 8px;
+    margin-right: 16px;
+    background: var(--secondary2);
+    font-size: 17px;
+    border: none;
+    cursor: pointer;
+}
+
+.content {
+    width: 80%;
+    height: 100%;
+    margin: auto;
+    padding: 0%;
+    background-color: white;
+}
+
+section {
+    margin: 0px;
+    width: 60%;
+    float: left;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 26px;
+    padding-left: 48px;
+    margin: 0px;
+    margin-top: 32px;
+}
+
+aside {
+    background-color: white;
+    width: 40%;
+    height: 100%;
+    float: right;
+}
+
+aside img {
+    max-width: 100%;
+}
+
+section p {
+    margin: 0px;
+    padding: 32px;
+    text-align: justify;
+}
+
+hr {
+    width: 95%;
+    border: 4px solid var(--secondary1);
+    border-radius: 5px;
+}
+
+ul {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-bottom: 32px;
+    padding-left: 128px;
+    padding-right: 16px;
+}
+
+footer {
+    clear: both;
+    background-color: var(--primary1);
+    text-align: center;
+    color: var(--secondary2);
+    margin: 0px;
+}
+
+footer p {
+    padding: 16px;
+}
+
+footer img {
+    float: left;
+    max-width: 100%;
+    max-height: 100%;
+    height: 48px;
+    margin: 6px;
+}
+
+form {
+    padding: 16px;
+}
+
+form input {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0px;
+    display: inline-block;
+    border: 1px solid var(--secondary1);
+    border-radius: 6px;
+    box-sizing: border-box;
+}
+
+form button {
+    padding: 6px;
+    margin-top: 8px;
+    margin-right: 16px;
+    background: var(--secondary2);
+    font-size: 17px;
+    border: none;
+    cursor: pointer;
+}

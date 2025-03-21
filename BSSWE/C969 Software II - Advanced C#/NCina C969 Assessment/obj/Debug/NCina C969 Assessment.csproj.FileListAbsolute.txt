@@ -1,0 +1,98 @@
+C:\Users\LabUser\source\repos\NCina C969 Assessment\NCina C969 Assessment\bin\Debug\NCina C969 Assessment.exe.config
+C:\Users\LabUser\source\repos\NCina C969 Assessment\NCina C969 Assessment\bin\Debug\NCina C969 Assessment.exe
+C:\Users\LabUser\source\repos\NCina C969 Assessment\NCina C969 Assessment\bin\Debug\NCina C969 Assessment.pdb
+C:\Users\LabUser\source\repos\NCina C969 Assessment\NCina C969 Assessment\obj\Debug\NCina C969 Assessment.csproj.AssemblyReference.cache
+C:\Users\LabUser\source\repos\NCina C969 Assessment\NCina C969 Assessment\obj\Debug\NCina_C969_Assessment.Properties.Resources.resources
+C:\Users\LabUser\source\repos\NCina C969 Assessment\NCina C969 Assessment\obj\Debug\NCina C969 Assessment.csproj.GenerateResource.cache
+C:\Users\LabUser\source\repos\NCina C969 Assessment\NCina C969 Assessment\obj\Debug\NCina C969 Assessment.csproj.CoreCompileInputs.cache
+C:\Users\LabUser\source\repos\NCina C969 Assessment\NCina C969 Assessment\obj\Debug\NCina C969 Assessment.exe
+C:\Users\LabUser\source\repos\NCina C969 Assessment\NCina C969 Assessment\obj\Debug\NCina C969 Assessment.pdb
+C:\Users\LabUser\source\repos\NCina C969 Assessment\NCina C969 Assessment\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\LabUser\source\repos\NCina C969 Assessment\NCina C969 Assessment\bin\Debug\Google.Protobuf.dll
+C:\Users\LabUser\source\repos\NCina C969 Assessment\NCina C969 Assessment\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\LabUser\source\repos\NCina C969 Assessment\NCina C969 Assessment\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\LabUser\source\repos\NCina C969 Assessment\NCina C969 Assessment\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\LabUser\source\repos\NCina C969 Assessment\NCina C969 Assessment\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LabUser\source\repos\NCina C969 Assessment\NCina C969 Assessment\bin\Debug\MySql.Data.dll
+C:\Users\LabUser\source\repos\NCina C969 Assessment\NCina C969 Assessment\bin\Debug\System.Buffers.dll
+C:\Users\LabUser\source\repos\NCina C969 Assessment\NCina C969 Assessment\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\LabUser\source\repos\NCina C969 Assessment\NCina C969 Assessment\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LabUser\source\repos\NCina C969 Assessment\NCina C969 Assessment\bin\Debug\System.IO.Pipelines.dll
+C:\Users\LabUser\source\repos\NCina C969 Assessment\NCina C969 Assessment\bin\Debug\System.Memory.dll
+C:\Users\LabUser\source\repos\NCina C969 Assessment\NCina C969 Assessment\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\LabUser\source\repos\NCina C969 Assessment\NCina C969 Assessment\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LabUser\source\repos\NCina C969 Assessment\NCina C969 Assessment\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\LabUser\source\repos\NCina C969 Assessment\NCina C969 Assessment\bin\Debug\ZstdSharp.dll
+C:\Users\LabUser\source\repos\NCina C969 Assessment\NCina C969 Assessment\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\LabUser\source\repos\NCina C969 Assessment\NCina C969 Assessment\bin\Debug\Google.Protobuf.pdb
+C:\Users\LabUser\source\repos\NCina C969 Assessment\NCina C969 Assessment\bin\Debug\Google.Protobuf.xml
+C:\Users\LabUser\source\repos\NCina C969 Assessment\NCina C969 Assessment\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\LabUser\source\repos\NCina C969 Assessment\NCina C969 Assessment\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\LabUser\source\repos\NCina C969 Assessment\NCina C969 Assessment\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\LabUser\source\repos\NCina C969 Assessment\NCina C969 Assessment\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\LabUser\source\repos\NCina C969 Assessment\NCina C969 Assessment\bin\Debug\MySql.Data.xml
+C:\Users\LabUser\source\repos\NCina C969 Assessment\NCina C969 Assessment\bin\Debug\System.Buffers.xml
+C:\Users\LabUser\source\repos\NCina C969 Assessment\NCina C969 Assessment\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\LabUser\source\repos\NCina C969 Assessment\NCina C969 Assessment\bin\Debug\System.IO.Pipelines.xml
+C:\Users\LabUser\source\repos\NCina C969 Assessment\NCina C969 Assessment\bin\Debug\System.Memory.xml
+C:\Users\LabUser\source\repos\NCina C969 Assessment\NCina C969 Assessment\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\LabUser\source\repos\NCina C969 Assessment\NCina C969 Assessment\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\LabUser\source\repos\NCina C969 Assessment\NCina C969 Assessment\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\LabUser\source\repos\NCina C969 Assessment\NCina C969 Assessment\obj\Debug\NCina_C969_Assessment.Login.resources
+C:\Users\LabUser\source\repos\NCina C969 Assessment\NCina C969 Assessment\obj\Debug\NCina C969 Assessment.csproj.CopyComplete
+C:\Users\LabUser\source\repos\NCina C969 Assessment\NCina C969 Assessment\bin\Debug\es\NCina C969 Assessment.resources.dll
+C:\Users\LabUser\source\repos\NCina C969 Assessment\NCina C969 Assessment\obj\Debug\NCina_C969_Assessment.Login.es.resources
+C:\Users\LabUser\source\repos\NCina C969 Assessment\NCina C969 Assessment\obj\Debug\es\NCina C969 Assessment.resources.dll
+C:\Users\LabUser\source\repos\NCina C969 Assessment\NCina C969 Assessment\bin\Debug\es-ES\NCina C969 Assessment.resources.dll
+C:\Users\LabUser\source\repos\NCina C969 Assessment\NCina C969 Assessment\obj\Debug\es-ES\NCina C969 Assessment.resources.dll
+C:\Users\LabUser\source\repos\NCina C969 Assessment\NCina C969 Assessment\obj\Debug\NCina_C969_Assessment.Properties.Resources.es-ES.resources
+C:\Users\LabUser\source\repos\NCina C969 Assessment\NCina C969 Assessment\obj\Debug\NCina_C969_Assessment.Home.resources
+E:\Users\Mugenri\Documents\School\2023 - Winter\C969 Software II - Advanced C#\NCina C969 Assessment\NCina C969 Assessment\bin\Debug\NCina C969 Assessment.exe.config
+E:\Users\Mugenri\Documents\School\2023 - Winter\C969 Software II - Advanced C#\NCina C969 Assessment\NCina C969 Assessment\bin\Debug\NCina C969 Assessment.exe
+E:\Users\Mugenri\Documents\School\2023 - Winter\C969 Software II - Advanced C#\NCina C969 Assessment\NCina C969 Assessment\bin\Debug\NCina C969 Assessment.pdb
+E:\Users\Mugenri\Documents\School\2023 - Winter\C969 Software II - Advanced C#\NCina C969 Assessment\NCina C969 Assessment\bin\Debug\es\NCina C969 Assessment.resources.dll
+E:\Users\Mugenri\Documents\School\2023 - Winter\C969 Software II - Advanced C#\NCina C969 Assessment\NCina C969 Assessment\bin\Debug\es-ES\NCina C969 Assessment.resources.dll
+E:\Users\Mugenri\Documents\School\2023 - Winter\C969 Software II - Advanced C#\NCina C969 Assessment\NCina C969 Assessment\bin\Debug\BouncyCastle.Cryptography.dll
+E:\Users\Mugenri\Documents\School\2023 - Winter\C969 Software II - Advanced C#\NCina C969 Assessment\NCina C969 Assessment\bin\Debug\Google.Protobuf.dll
+E:\Users\Mugenri\Documents\School\2023 - Winter\C969 Software II - Advanced C#\NCina C969 Assessment\NCina C969 Assessment\bin\Debug\K4os.Compression.LZ4.dll
+E:\Users\Mugenri\Documents\School\2023 - Winter\C969 Software II - Advanced C#\NCina C969 Assessment\NCina C969 Assessment\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Users\Mugenri\Documents\School\2023 - Winter\C969 Software II - Advanced C#\NCina C969 Assessment\NCina C969 Assessment\bin\Debug\K4os.Hash.xxHash.dll
+E:\Users\Mugenri\Documents\School\2023 - Winter\C969 Software II - Advanced C#\NCina C969 Assessment\NCina C969 Assessment\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Users\Mugenri\Documents\School\2023 - Winter\C969 Software II - Advanced C#\NCina C969 Assessment\NCina C969 Assessment\bin\Debug\MySql.Data.dll
+E:\Users\Mugenri\Documents\School\2023 - Winter\C969 Software II - Advanced C#\NCina C969 Assessment\NCina C969 Assessment\bin\Debug\System.Buffers.dll
+E:\Users\Mugenri\Documents\School\2023 - Winter\C969 Software II - Advanced C#\NCina C969 Assessment\NCina C969 Assessment\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\Users\Mugenri\Documents\School\2023 - Winter\C969 Software II - Advanced C#\NCina C969 Assessment\NCina C969 Assessment\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Users\Mugenri\Documents\School\2023 - Winter\C969 Software II - Advanced C#\NCina C969 Assessment\NCina C969 Assessment\bin\Debug\System.IO.Pipelines.dll
+E:\Users\Mugenri\Documents\School\2023 - Winter\C969 Software II - Advanced C#\NCina C969 Assessment\NCina C969 Assessment\bin\Debug\System.Memory.dll
+E:\Users\Mugenri\Documents\School\2023 - Winter\C969 Software II - Advanced C#\NCina C969 Assessment\NCina C969 Assessment\bin\Debug\System.Numerics.Vectors.dll
+E:\Users\Mugenri\Documents\School\2023 - Winter\C969 Software II - Advanced C#\NCina C969 Assessment\NCina C969 Assessment\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Users\Mugenri\Documents\School\2023 - Winter\C969 Software II - Advanced C#\NCina C969 Assessment\NCina C969 Assessment\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Users\Mugenri\Documents\School\2023 - Winter\C969 Software II - Advanced C#\NCina C969 Assessment\NCina C969 Assessment\bin\Debug\ZstdSharp.dll
+E:\Users\Mugenri\Documents\School\2023 - Winter\C969 Software II - Advanced C#\NCina C969 Assessment\NCina C969 Assessment\bin\Debug\BouncyCastle.Cryptography.xml
+E:\Users\Mugenri\Documents\School\2023 - Winter\C969 Software II - Advanced C#\NCina C969 Assessment\NCina C969 Assessment\bin\Debug\Google.Protobuf.pdb
+E:\Users\Mugenri\Documents\School\2023 - Winter\C969 Software II - Advanced C#\NCina C969 Assessment\NCina C969 Assessment\bin\Debug\Google.Protobuf.xml
+E:\Users\Mugenri\Documents\School\2023 - Winter\C969 Software II - Advanced C#\NCina C969 Assessment\NCina C969 Assessment\bin\Debug\K4os.Compression.LZ4.xml
+E:\Users\Mugenri\Documents\School\2023 - Winter\C969 Software II - Advanced C#\NCina C969 Assessment\NCina C969 Assessment\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Users\Mugenri\Documents\School\2023 - Winter\C969 Software II - Advanced C#\NCina C969 Assessment\NCina C969 Assessment\bin\Debug\K4os.Hash.xxHash.xml
+E:\Users\Mugenri\Documents\School\2023 - Winter\C969 Software II - Advanced C#\NCina C969 Assessment\NCina C969 Assessment\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Users\Mugenri\Documents\School\2023 - Winter\C969 Software II - Advanced C#\NCina C969 Assessment\NCina C969 Assessment\bin\Debug\MySql.Data.xml
+E:\Users\Mugenri\Documents\School\2023 - Winter\C969 Software II - Advanced C#\NCina C969 Assessment\NCina C969 Assessment\bin\Debug\System.Buffers.xml
+E:\Users\Mugenri\Documents\School\2023 - Winter\C969 Software II - Advanced C#\NCina C969 Assessment\NCina C969 Assessment\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Users\Mugenri\Documents\School\2023 - Winter\C969 Software II - Advanced C#\NCina C969 Assessment\NCina C969 Assessment\bin\Debug\System.IO.Pipelines.xml
+E:\Users\Mugenri\Documents\School\2023 - Winter\C969 Software II - Advanced C#\NCina C969 Assessment\NCina C969 Assessment\bin\Debug\System.Memory.xml
+E:\Users\Mugenri\Documents\School\2023 - Winter\C969 Software II - Advanced C#\NCina C969 Assessment\NCina C969 Assessment\bin\Debug\System.Numerics.Vectors.xml
+E:\Users\Mugenri\Documents\School\2023 - Winter\C969 Software II - Advanced C#\NCina C969 Assessment\NCina C969 Assessment\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Users\Mugenri\Documents\School\2023 - Winter\C969 Software II - Advanced C#\NCina C969 Assessment\NCina C969 Assessment\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Users\Mugenri\Documents\School\2023 - Winter\C969 Software II - Advanced C#\NCina C969 Assessment\NCina C969 Assessment\obj\Debug\NCina C969 Assessment.csproj.AssemblyReference.cache
+E:\Users\Mugenri\Documents\School\2023 - Winter\C969 Software II - Advanced C#\NCina C969 Assessment\NCina C969 Assessment\obj\Debug\NCina_C969_Assessment.Home.resources
+E:\Users\Mugenri\Documents\School\2023 - Winter\C969 Software II - Advanced C#\NCina C969 Assessment\NCina C969 Assessment\obj\Debug\NCina_C969_Assessment.Login.resources
+E:\Users\Mugenri\Documents\School\2023 - Winter\C969 Software II - Advanced C#\NCina C969 Assessment\NCina C969 Assessment\obj\Debug\NCina_C969_Assessment.Properties.Resources.resources
+E:\Users\Mugenri\Documents\School\2023 - Winter\C969 Software II - Advanced C#\NCina C969 Assessment\NCina C969 Assessment\obj\Debug\NCina_C969_Assessment.Login.es.resources
+E:\Users\Mugenri\Documents\School\2023 - Winter\C969 Software II - Advanced C#\NCina C969 Assessment\NCina C969 Assessment\obj\Debug\NCina_C969_Assessment.Properties.Resources.es-ES.resources
+E:\Users\Mugenri\Documents\School\2023 - Winter\C969 Software II - Advanced C#\NCina C969 Assessment\NCina C969 Assessment\obj\Debug\NCina C969 Assessment.csproj.GenerateResource.cache
+E:\Users\Mugenri\Documents\School\2023 - Winter\C969 Software II - Advanced C#\NCina C969 Assessment\NCina C969 Assessment\obj\Debug\NCina C969 Assessment.csproj.CoreCompileInputs.cache
+E:\Users\Mugenri\Documents\School\2023 - Winter\C969 Software II - Advanced C#\NCina C969 Assessment\NCina C969 Assessment\obj\Debug\es\NCina C969 Assessment.resources.dll
+E:\Users\Mugenri\Documents\School\2023 - Winter\C969 Software II - Advanced C#\NCina C969 Assessment\NCina C969 Assessment\obj\Debug\es-ES\NCina C969 Assessment.resources.dll
+E:\Users\Mugenri\Documents\School\2023 - Winter\C969 Software II - Advanced C#\NCina C969 Assessment\NCina C969 Assessment\obj\Debug\NCina C969 Assessment.csproj.CopyComplete
+E:\Users\Mugenri\Documents\School\2023 - Winter\C969 Software II - Advanced C#\NCina C969 Assessment\NCina C969 Assessment\obj\Debug\NCina C969 Assessment.exe
+E:\Users\Mugenri\Documents\School\2023 - Winter\C969 Software II - Advanced C#\NCina C969 Assessment\NCina C969 Assessment\obj\Debug\NCina C969 Assessment.pdb

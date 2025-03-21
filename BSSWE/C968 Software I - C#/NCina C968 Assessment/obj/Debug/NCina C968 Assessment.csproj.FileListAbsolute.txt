@@ -1,0 +1,14 @@
+E:\Users\Mugenri\Documents\School\2023 - Winter\C968 Software I - C#\NCina C968 Assessment\NCina C968 Assessment\bin\Debug\NCina C968 Assessment.exe.config
+E:\Users\Mugenri\Documents\School\2023 - Winter\C968 Software I - C#\NCina C968 Assessment\NCina C968 Assessment\bin\Debug\NCina C968 Assessment.exe
+E:\Users\Mugenri\Documents\School\2023 - Winter\C968 Software I - C#\NCina C968 Assessment\NCina C968 Assessment\bin\Debug\NCina C968 Assessment.pdb
+E:\Users\Mugenri\Documents\School\2023 - Winter\C968 Software I - C#\NCina C968 Assessment\NCina C968 Assessment\obj\Debug\NCina C968 Assessment.csproj.AssemblyReference.cache
+E:\Users\Mugenri\Documents\School\2023 - Winter\C968 Software I - C#\NCina C968 Assessment\NCina C968 Assessment\obj\Debug\NCina_C968_Assessment.Properties.Resources.resources
+E:\Users\Mugenri\Documents\School\2023 - Winter\C968 Software I - C#\NCina C968 Assessment\NCina C968 Assessment\obj\Debug\NCina C968 Assessment.csproj.GenerateResource.cache
+E:\Users\Mugenri\Documents\School\2023 - Winter\C968 Software I - C#\NCina C968 Assessment\NCina C968 Assessment\obj\Debug\NCina C968 Assessment.csproj.CoreCompileInputs.cache
+E:\Users\Mugenri\Documents\School\2023 - Winter\C968 Software I - C#\NCina C968 Assessment\NCina C968 Assessment\obj\Debug\NCina C968 Assessment.exe
+E:\Users\Mugenri\Documents\School\2023 - Winter\C968 Software I - C#\NCina C968 Assessment\NCina C968 Assessment\obj\Debug\NCina C968 Assessment.pdb
+E:\Users\Mugenri\Documents\School\2023 - Winter\C968 Software I - C#\NCina C968 Assessment\NCina C968 Assessment\obj\Debug\NCina_C968_Assessment.Main.resources
+E:\Users\Mugenri\Documents\School\2023 - Winter\C968 Software I - C#\NCina C968 Assessment\NCina C968 Assessment\obj\Debug\NCina_C968_Assessment.AddPart.resources
+E:\Users\Mugenri\Documents\School\2023 - Winter\C968 Software I - C#\NCina C968 Assessment\NCina C968 Assessment\obj\Debug\NCina_C968_Assessment.AddProduct.resources
+E:\Users\Mugenri\Documents\School\2023 - Winter\C968 Software I - C#\NCina C968 Assessment\NCina C968 Assessment\obj\Debug\NCina_C968_Assessment.ModifyPart.resources
+E:\Users\Mugenri\Documents\School\2023 - Winter\C968 Software I - C#\NCina C968 Assessment\NCina C968 Assessment\obj\Debug\NCina_C968_Assessment.ModifyProduct.resources

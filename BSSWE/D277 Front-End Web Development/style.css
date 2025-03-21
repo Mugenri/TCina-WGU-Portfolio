@@ -1,0 +1,146 @@
+/*
+*font family dec
+:hover for nav buttons
+a float
+absolute and relative positioning
+element selector
+class sleector two times
+id selector
+*/
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    background: linear-gradient(0deg, #66AAEE 0%, #C0DDEE 100%);
+    height: 100%;
+    margin: 0%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#icon {
+    position: absolute;
+    width: 4%;
+    left: 80px;
+    top: 80px;
+    border: 2px solid black;
+}
+
+.content {
+    width: 50%;
+    height: 100%;
+    margin: auto;
+    padding: 0%;
+    background-color: #FFFFF0;
+}
+
+#pageTitle {
+    color: #FFDD77;
+    text-shadow: 2px 2px #998866;
+    text-align: center;
+    font-size: 64px;
+}
+
+header h1 {
+    margin: 0px;
+    padding: 16px;
+}
+
+nav {
+    background-color: #FFC088;
+    margin: 0%;
+    text-align: center;
+    color: #998866;
+    position: sticky;
+    top: 0;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0%;
+    padding: 16px;
+}
+
+ul li {
+    display: inline-block;
+    padding: 8px;
+}
+
+a:link {
+    color: #998866;
+}
+
+a:visited {
+    color: #998866;
+}
+
+a:hover {
+    color: #FFEE99;
+}
+
+a:active {
+    color: yellow;
+}
+
+section {
+    height: 100%;
+    margin: 16px;
+    background-color: #FFDD77;
+}
+
+section h1 {
+    font-size: 40px;
+    margin: 0px;
+    padding-top: 8px;
+}
+
+section h2 {
+    font-size: 28px;
+    margin: 0px;
+}
+
+article {
+    padding: 16px;
+    color: #887755;
+}
+
+caption {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+table,
+th,
+td {
+    border: 3px solid #887755;
+    margin: 16px;
+}
+
+aside {
+    background-color: #FFFFF0;
+    float: right;
+    width: 40%;
+    display: block;
+    margin-left: 16px;
+    margin-bottom: 16px;
+    padding-left: 16px;
+}
+
+aside p {
+    text-align: center;
+}
+
+img {
+    width: 100%;
+}
+
+footer {
+    background-color: #FFC088;
+    margin: 0;
+    padding: 8px;
+    position: relative;
+    top: 64px;
+    text-align: center;
+    color: #998866;
+    clear: both;
+}

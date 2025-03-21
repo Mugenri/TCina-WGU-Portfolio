@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NCina C968 Assessment", "NCina C968 Assessment\NCina C968 Assessment.csproj", "{36CD5619-D653-412C-BA93-30904FF3BEEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36CD5619-D653-412C-BA93-30904FF3BEEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36CD5619-D653-412C-BA93-30904FF3BEEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36CD5619-D653-412C-BA93-30904FF3BEEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36CD5619-D653-412C-BA93-30904FF3BEEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81212FD0-42CD-4E5E-9A85-C281786FC3FD}
+	EndGlobalSection
+EndGlobal
